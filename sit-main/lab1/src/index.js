@@ -1,5 +1,5 @@
 var http = require("http");
-var url = new URL("https://test.codesandbox.io/?name=Данил");
+var url = new URL("https://test.codesandbox.io/?name=Никита");
 var name = url.searchParams.get("name");
 var days = [
   "Воскресенье",
